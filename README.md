@@ -19,6 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenopscode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
