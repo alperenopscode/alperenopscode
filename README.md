@@ -1,6 +1,4 @@
-# Hi 👋, I'm Alperen
-
-### I'm a passionate C# developer from Turkey
+<h1 align="center">Hi 👋, ben Alperen</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alperenopscode&label=Profile%20views&color=0e75b6&style=flat" alt="alperenopscode" />
@@ -12,18 +10,21 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **C#**
-- 💬 Ask me about **C#**
-- 📫 How to reach me: **vr38dett4102@gmail.com**
+- 🌱 Şu anda öğreniyorum **C#**
+- 💬 Bana sor **C#**
+- 📫 Bana nasıl ulaşılır **vr38dett4102@gmail.com**
 
-### Connect with me:
+<h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alperenince" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenince" height="40" />
+  <a href="https://linkedin.com/in/alperen-ince" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-ince" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/alp.incee" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alp.incee" height="30" width="30" />
   </a>
 </p>
 
-### Languages and Tools:
+<h3 align="left">Diller ve Araçlar:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
