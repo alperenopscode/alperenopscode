@@ -1,3 +1,6 @@
+<br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
 # 💫 About Me:
 🌱 I’m currently learning C#<br>💬 Ask me about C#<br>
 
